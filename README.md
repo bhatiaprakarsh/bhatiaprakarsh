@@ -9,6 +9,8 @@
 
 - 💼 I'm currently working as a **Software Quality Engineer at Mercer | Mettl, a business of Marsh**.
 - 🌱 I'm currently learning **Playwright, Node.js, JavaScript, and TypeScript**.
+- <a href="https://github.com/bhatiaprakarsh/LearnPlaywrightFundamentalsTTA">Playwright Fundamentals</a>
+- <a href="https://github.com/bhatiaprakarsh/LearnPlaywrightFundamentalsTTA](https://github.com/bhatiaprakarsh/LearnPlaywrightTTA-JS">Playwright + Javascript</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,12 +59,12 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhatiaprakarsh&show_icons=true&locale=en&layout=compact" alt="bhatiaprakarsh">
-</p>
-<p>
+</p> -->
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhatiaprakarsh&show_icons=true&locale=en" alt="bhatiaprakarsh">
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatiaprakarsh&" alt="bhatiaprakarsh">
-</p>
+</p> -->
